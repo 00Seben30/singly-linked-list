@@ -1,3 +1,5 @@
+//using this as a reference while tryong out linked lists
+
 #include <stdio.h>
 #include <stdlib.h>
 
